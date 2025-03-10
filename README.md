@@ -16,6 +16,7 @@ Clase Letra
 Letra guarda la letra que representa, y si se ha adivinado o no.
 Si con el metodo check() comprubas si es la letra, y si lo es cambia a guessed.
 El "to string" comprueba si la letra se ha descubierto, si se ha descubierto la muestra, si no muestra "_"
+
 Clase Wordle
 
 Se ha cambiado las 5 variables letra a una list de Clases letra.
@@ -24,3 +25,5 @@ Las propiedades (pueden ser metodos) para control de fin de juego y para ver la 
 Main Loop
 
 He hecho mas bonito el main loop, inicializando la palabra antes de loop, y haciendo captura de errores SOLO DE LAS ZONAS NECESARIAS
+
+
